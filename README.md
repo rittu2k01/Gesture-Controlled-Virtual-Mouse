@@ -257,7 +257,7 @@ Note: Use Python version: 3.8.5
   | |  |  |  |  |
   | ------------- | ------------- | ------------- | ------------- | ------------- |
   | RITHVIK TANANKI | [GitHub](https://github.com/rittu2k01) | Email | [LinkedIn](https://www.instagram.com/rithvik_tananki/) | Instagram |
-  | RITHVIK TANANKI | 
+  | https://www.instagram.com/rithvik_tananki/ | 
 
   | NAVYANTH REDDY - CO DEVELOPER |
   
